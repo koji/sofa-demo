@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   lil-gui:
-    specifier: ^0.18.2
-    version: 0.18.2
+    specifier: ^0.19.1
+    version: 0.19.1
   three:
     specifier: ^0.157.0
     version: 0.157.0
@@ -292,8 +292,8 @@ packages:
     resolution: {integrity: sha512-MVBHmgY+uEbmJNApAaPbtvNh1RCAeMnKym82SBjtp5rODTYKWtM+MXHCifLe2H2Ti1HuBGBtK/5SyG4ShQ3pUQ==}
     dev: true
 
-  /lil-gui@0.18.2:
-    resolution: {integrity: sha512-DgdrLy3/KGC0PiQLKgOcJMPItP4xY4iWgJ9+91Zaxfr8GCTmMps05QS9w9jW7yspILlbscbquwjOwxmWnSx5Uw==}
+  /lil-gui@0.19.1:
+    resolution: {integrity: sha512-9dbIg+UxS8RIROI6OH5gV2KrVE0Cn37bcLOQGF2GKN8ibTxDrUSLzzZfkQR82LnZsgs7DEZOOGfn3zhtd6hk0Q==}
     dev: false
 
   /meshoptimizer@0.18.1:
