@@ -9,13 +9,13 @@ dependencies:
     specifier: ^0.18.2
     version: 0.18.2
   three:
-    specifier: ^0.157.0
-    version: 0.157.0
+    specifier: ^0.159.0
+    version: 0.159.0
 
 devDependencies:
   '@types/three':
-    specifier: ^0.155.0
-    version: 0.155.1
+    specifier: ^0.159.0
+    version: 0.159.0
   typescript:
     specifier: ^5.2.2
     version: 5.2.2
@@ -223,22 +223,16 @@ packages:
     dev: true
     optional: true
 
-  /@tweenjs/tween.js@18.6.4:
-    resolution: {integrity: sha512-lB9lMjuqjtuJrx7/kOkqQBtllspPIN+96OvTCeJ2j5FEzinoAXTdAMFnDAQT1KVPRlnYfBrqxtqP66vDM40xxQ==}
-    dev: true
-
   /@types/stats.js@0.17.3:
     resolution: {integrity: sha512-pXNfAD3KHOdif9EQXZ9deK82HVNaXP5ZIF5RP2QG6OQFNTaY2YIetfrE9t528vEreGQvEPRDDc8muaoYeK0SxQ==}
     dev: true
 
-  /@types/three@0.155.1:
-    resolution: {integrity: sha512-uNUwnz/wWRxahjIqTtDYQ1qdE1R1py21obxfuILkT+kKrjocMwRLQQA1l8nMxfQU7VXb7CXu04ucMo8OqZt4ZA==}
+  /@types/three@0.159.0:
+    resolution: {integrity: sha512-2gybdh7HtX+rGUgslzK7QEJfzD2I0qrbUGzKk+dK0FDx49UHkNX0rqZVRzIgeFjBd1HzzhNNgwNoMacm3Wyc7w==}
     dependencies:
-      '@tweenjs/tween.js': 18.6.4
       '@types/stats.js': 0.17.3
       '@types/webxr': 0.5.8
       fflate: 0.6.10
-      lil-gui: 0.17.0
       meshoptimizer: 0.18.1
     dev: true
 
@@ -288,10 +282,6 @@ packages:
     dev: true
     optional: true
 
-  /lil-gui@0.17.0:
-    resolution: {integrity: sha512-MVBHmgY+uEbmJNApAaPbtvNh1RCAeMnKym82SBjtp5rODTYKWtM+MXHCifLe2H2Ti1HuBGBtK/5SyG4ShQ3pUQ==}
-    dev: true
-
   /lil-gui@0.18.2:
     resolution: {integrity: sha512-DgdrLy3/KGC0PiQLKgOcJMPItP4xY4iWgJ9+91Zaxfr8GCTmMps05QS9w9jW7yspILlbscbquwjOwxmWnSx5Uw==}
     dev: false
@@ -332,8 +322,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /three@0.157.0:
-    resolution: {integrity: sha512-CeAwQrf4x3z0/e+MC4F+nXLW5t0gh3pw+L6CCBqpHvOq3bGYIgRYub7Pv0j/9wR+d++OiEglyZzWyuSYbwWGOA==}
+  /three@0.159.0:
+    resolution: {integrity: sha512-eCmhlLGbBgucuo4VEA9IO3Qpc7dh8Bd4VKzr7WfW4+8hMcIfoAVi1ev0pJYN9PTTsCslbcKgBwr2wNZ1EvLInA==}
     dev: false
 
   /typescript@5.2.2:
